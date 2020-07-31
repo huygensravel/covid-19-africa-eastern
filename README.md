@@ -2,6 +2,7 @@ covid-19_project
 ==============================
 
 Exploration and modeling of Covid-19 data for the eastern and southern part of Africa.
+A simplified dashbord is deployed on heroku: http://covid-19-africa-eastern.herokuapp.com/
 
 Project Organization
 ------------
